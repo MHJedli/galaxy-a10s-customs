@@ -1,0 +1,1 @@
+# galaxy-a10s-customs
